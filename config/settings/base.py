@@ -31,6 +31,7 @@ INSTALLED_APPS = [
     "apps.categories",
     "apps.livres",
     "django_filters",
+    "apps.membres",
 ]
 
 MIDDLEWARE = [
