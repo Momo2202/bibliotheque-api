@@ -29,6 +29,8 @@ INSTALLED_APPS = [
     "rest_framework",
     "apps.core",
     "apps.categories",
+    "apps.livres",
+    "django_filters",
 ]
 
 MIDDLEWARE = [
